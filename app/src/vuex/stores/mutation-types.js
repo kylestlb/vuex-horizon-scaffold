@@ -1,0 +1,2 @@
+export const SUBMIT_THING = 'SUBMIT_THING'
+export const UPDATE_THINGS = 'UPDATE_THINGS'
